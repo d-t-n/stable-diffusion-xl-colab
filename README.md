@@ -8,9 +8,10 @@
 # Samples
 
 1)
-![Alt text](output-por.jpg)
+![!\[Alt text\](output-por.jpg)](outputs/output-por.jpg)
 
 
 2)
-![Alt text](output-sculp.jpg)
+![!\[Alt text\](output-sculp.jpg)](outputs/output-sculp.jpg)
 
+3)
