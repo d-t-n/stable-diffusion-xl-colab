@@ -12,8 +12,5 @@
 
 
 2)
-![Alt text](output-car1.jpg)
-
-
-3)
+![Alt text](output-sculp.jpg)
 
