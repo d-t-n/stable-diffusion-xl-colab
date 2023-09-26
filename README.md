@@ -15,3 +15,9 @@
 ![!\[Alt text\](output-sculp.jpg)](outputs/output-sculp.jpg)
 
 3)
+![Alt text](outputs/output-met.jpg)
+
+4)
+![Alt text](outputs/output-med.jpg)
+
+5)
