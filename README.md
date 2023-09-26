@@ -5,7 +5,7 @@
 
 [Run stable_diffusion_xl.ipynb in Google Colab](https://colab.research.google.com/github/d-t-n/stable-diffusion-xl-colab/blob/main/stable_diffusion_xl.ipynb
 
-# Samples
+# Generated Samples
 
 1)
 ![!\[Alt text\](output-por.jpg)](outputs/output-por.jpg)
@@ -21,3 +21,4 @@
 ![Alt text](outputs/output-med.jpg)
 
 5)
+![Alt text](outputs/output-pir.jpg)
